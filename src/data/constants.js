@@ -16,7 +16,7 @@ export const Bio = {
 "Hello! I'm Navish Goyal, a Pre-Final Year Engineering Student at Thapar Institute of Engineering and Technology with skills in Data Structures, Algorithms, MERN Stack Web Development, and Data Science, I build efficient, data-driven solutions and responsive web applications. Explore my projects to see my passion for tech in action!",
   github: "https://github.com/navishgoyal8",
   resume:
-    "https://drive.google.com/file/d/1sb-ksOwjzcKSGj975Hk4lFrrc5miH3KQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/10fDRzCw76S3gtw_MPs1dI8t6Qq2miRoc/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/navish-goyal-b40667224/",
   insta: "https://www.instagram.com/navishgoyal8/?hl=en",
 };
