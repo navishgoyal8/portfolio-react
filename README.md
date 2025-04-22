@@ -26,12 +26,12 @@ Welcome to my personal portfolio website built with **React.js**! This website s
 
 ## 🧾 How to Run the Project Locally
 
-1. **Clone the repository:-  **
+1. **Clone the repository:-**  
     git clone https://github.com/navishgoyal8/portfolio-react.git
 
-2. **Install Dependencies:-  **
-      Make sure you have Node.js and npm installed.
+2. **Install Dependencies:-**
+      Make sure you have Node.js and npm installed
       **npm install**
 
-3. **Start the Development Server:-  **
+3. **Start the Development Server:-**
       **npm start**
