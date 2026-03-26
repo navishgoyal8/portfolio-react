@@ -17,7 +17,7 @@ import {
 } from './HeroStyle';
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
-import my_profile_pic from "../../images/my_profile_pic.jpeg";
+import my_profile_pic from "../../images/my_profile_pic.png";
 
 const HeroSection = () => {
     return (
